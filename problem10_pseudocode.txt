@@ -1,0 +1,8 @@
+START
+   Input RoomNumber
+ IF RoomNumber is divisible by 2 THEN
+    Display "Even"
+ ELSE
+    IF RoomNumber is not divisible by 2 THEN
+      Display "Odd"
+END

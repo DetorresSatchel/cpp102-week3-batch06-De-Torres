@@ -1,0 +1,7 @@
+START
+    Input HourlyRate
+    Input HoursWorked
+    Input ProjectBonus
+    TotalEarnings = (HourlyRate x HoursWorked) + ProjectBonus
+    Display TotalEarnings
+END

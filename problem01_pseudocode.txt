@@ -1,0 +1,10 @@
+START
+  Input num of boxes and items
+
+   Display num of boxes and items
+
+    Calculate the sum of num of boxes and items
+
+   Display the results
+
+End

@@ -1,0 +1,7 @@
+START
+    Input Midterm
+    Input FinalExam
+    Input CourseOutput
+    FinalGrade = (Midterm x 0.35) + (FinalExam x 0.35) + (CourseOutput x 0.30)
+    Display FinalGrade
+END

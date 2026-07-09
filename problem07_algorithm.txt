@@ -1,0 +1,7 @@
+Step 1:Start
+Step 2:Ask for the Midterm Score.
+Step 3:Ask for the Final Exam Score.
+Step 4:Ask for the Course Output Score.
+Step 5:Compute the final course grade: Final Grade = (Midterm × 0.35) + (Final Exam × 0.35) + (Course Output × 0.30)
+Step 6:Display the final course grade.
+Step 7:End.

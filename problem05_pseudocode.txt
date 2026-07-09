@@ -1,0 +1,7 @@
+START
+    Input Price1, Quantity1
+    Input Price2, Quantity2
+    Input Price3, Quantity3
+    TotalCost = (Price1 x Quantity1) + (Price2 x Quantity2) + (Price3 x Quantity3)
+    Display TotalCost
+END

@@ -1,0 +1,6 @@
+START
+    Input RatePerDay
+    Input NumberOfDays
+    TotalCost = RatePerDay x NumberOfDays
+    Diplay TotalCost
+END

@@ -1,0 +1,7 @@
+START
+    Input Violations
+    IF Violations is less than 2 THEN
+        Display "Cleared"
+    ELSE
+        Display "Not Cleared"
+END

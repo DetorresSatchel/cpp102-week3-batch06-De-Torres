@@ -1,0 +1,5 @@
+Step 1:Start
+Step 2:Ask for the number of unreturned book violations.
+Step 3:If the number of violations is 2 or less, display "Cleared".
+Step 4:If not, display "Not Cleared".
+Step 5:End.

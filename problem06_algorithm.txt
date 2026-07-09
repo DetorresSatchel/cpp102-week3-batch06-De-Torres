@@ -1,0 +1,8 @@
+Step 1:Start
+Step 2:Ask for the hourly rate.
+Step 3:Ask for the number of hours worked.
+Step 4:Ask for the project completion bonus.
+Step 5:Compute the total earnings:
+Step 6:Total Earnings = (Hourly Rate × Hours Worked) + Project Bonus
+Step 7:Display the total earnings.
+Step 8:End.

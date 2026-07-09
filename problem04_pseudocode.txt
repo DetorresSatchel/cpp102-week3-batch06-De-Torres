@@ -1,0 +1,7 @@
+START
+    Input Game1
+    Input Game2
+    Input Game3
+    Average = (Game1 + Game2 + Game3) / 3
+    Display Average
+END

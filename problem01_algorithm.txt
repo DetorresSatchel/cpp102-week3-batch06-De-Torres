@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for the number of box
+Step 3: Ask for the number of items
+Step 4: Compute the sum of the number of box and items
+Step 5: Display the sum of boxes and items
+Step 6: End

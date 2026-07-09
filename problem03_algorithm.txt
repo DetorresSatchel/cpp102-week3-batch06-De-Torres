@@ -1,0 +1,7 @@
+Step 1:Start
+Step 2:Ask for the rate per day.
+Step 3:Ask for the number of days subscribed.
+Step 4:Compute the total cost:
+Step 5:Total Cost = Rate per Day × Number of Days
+Step 6:Display the total cost.
+Step 7:End.
